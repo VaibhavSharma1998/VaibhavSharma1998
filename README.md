@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Sharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Reactjs Projects
+- 🌱 I’m currently learning MernStack 
+- 💞️ I’m looking to collaborate on MernStack Projects
 - 📫 How to reach me www.linkedin.com/in/vaibhav1998
 
 <!---
